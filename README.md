@@ -12,4 +12,4 @@ va_end (man 3 va_end)<br>
 va_copy (man 3 va_copy)<br>
 va_arg (man 3 va_arg)<br>
 
-* This project is developed by Yekeen Muizz and Tijani Adebowale.
+* This project is developed by Yekeen Abduizz and Tijani Adebowale.
